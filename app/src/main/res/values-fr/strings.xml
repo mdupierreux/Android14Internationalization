@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Android14Internationalization</string>
     <string name="hello">Bonjour en français</string>
+    <string name="go_to_settings">Accéder aux paramètres</string>
+    <string name="load_languages">Charger les langues</string>
 </resources>
